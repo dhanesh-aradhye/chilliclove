@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dessert</title>
+      <link>/categories/dessert/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snacks</title>
+      <link>/categories/snacks/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/snacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunch</title>
+      <link>/categories/lunch/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bhaji</title>
+      <link>/categories/bhaji/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bhaji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sides</title>
+      <link>/categories/sides/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pickle</title>
+      <link>/categories/pickle/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/pickle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
