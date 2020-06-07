@@ -5,17 +5,413 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>easy cake</title>
+      <link>/tags/easy-cake/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/easy-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthy</title>
+      <link>/tags/healthy/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/healthy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pancake</title>
+      <link>/tags/pancake/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pancake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wheat cake</title>
+      <link>/tags/wheat-cake/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wheat-cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amba</title>
+      <link>/tags/amba/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/amba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalakand</title>
+      <link>/tags/kalakand/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kalakand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mango</title>
+      <link>/tags/mango/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mango/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milk</title>
+      <link>/tags/milk/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/milk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet</title>
+      <link>/tags/sweet/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sweet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anda biryani</title>
+      <link>/tags/anda-biryani/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/anda-biryani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biryani</title>
+      <link>/tags/biryani/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biryani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>egg</title>
+      <link>/tags/egg/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/egg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>egg biryani</title>
+      <link>/tags/egg-biryani/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/egg-biryani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice</title>
+      <link>/tags/rice/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetable</title>
+      <link>/tags/vegetable/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vegetable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delicious</title>
+      <link>/tags/delicious/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/delicious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khichdi</title>
+      <link>/tags/khichdi/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/khichdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palak</title>
+      <link>/tags/palak/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/palak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chilli</title>
+      <link>/tags/chilli/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chilli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese</title>
+      <link>/tags/chinese/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mushroom</title>
+      <link>/tags/mushroom/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mushroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spicy</title>
+      <link>/tags/spicy/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spicy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bhaji</title>
+      <link>/tags/bhaji/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bhaji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>black pepper</title>
+      <link>/tags/black-pepper/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/black-pepper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cauliflower</title>
+      <link>/tags/cauliflower/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cauliflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curry</title>
+      <link>/tags/curry/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/curry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tasty</title>
+      <link>/tags/tasty/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tasty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cheese</title>
       <link>/tags/cheese/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/cheese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy</title>
+      <link>/tags/easy/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/easy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>/tags/italian/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasta</title>
+      <link>/tags/pasta/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick recipe</title>
+      <link>/tags/quick-recipe/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quick-recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red sauce</title>
+      <link>/tags/red-sauce/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/red-sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandwich</title>
+      <link>/tags/sandwich/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sandwich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangy</title>
+      <link>/tags/tangy/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tangy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tasty snack</title>
+      <link>/tags/tasty-snack/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tasty-snack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veg</title>
+      <link>/tags/veg/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/veg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corn</title>
+      <link>/tags/corn/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/corn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franky</title>
+      <link>/tags/franky/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/franky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paneer</title>
+      <link>/tags/paneer/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/paneer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roll</title>
+      <link>/tags/roll/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/roll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bhagar</title>
+      <link>/tags/bhagar/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bhagar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danyachi aamti</title>
+      <link>/tags/danyachi-aamti/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/danyachi-aamti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fasting menu</title>
+      <link>/tags/fasting-menu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fasting-menu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waraiche tandul</title>
+      <link>/tags/waraiche-tandul/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/waraiche-tandul/</guid>
       <description></description>
     </item>
     
@@ -61,15 +457,6 @@
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/pulao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>paneer</title>
-      <link>/tags/paneer/</link>
-      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/paneer/</guid>
       <description></description>
     </item>
     
@@ -142,15 +529,6 @@
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/coconut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mango</title>
-      <link>/tags/mango/</link>
-      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mango/</guid>
       <description></description>
     </item>
     
