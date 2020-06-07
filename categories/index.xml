@@ -5,10 +5,55 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Snack</title>
+      <link>/categories/snack/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/snack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweets</title>
+      <link>/categories/sweets/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meal</title>
+      <link>/categories/meal/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/meal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice</title>
+      <link>/categories/rice/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curry</title>
+      <link>/categories/curry/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/curry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dessert</title>
