@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>mango</title>
+      <title>Mango</title>
       <link>/tags/mango/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
@@ -88,6 +88,168 @@
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/sweet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capsicum</title>
+      <link>/tags/capsicum/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/capsicum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corn</title>
+      <link>/tags/corn/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/corn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curry</title>
+      <link>/tags/curry/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/curry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gravy</title>
+      <link>/tags/gravy/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gravy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>masala</title>
+      <link>/tags/masala/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/masala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mushroom</title>
+      <link>/tags/mushroom/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mushroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protein-rich</title>
+      <link>/tags/protein-rich/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/protein-rich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soya</title>
+      <link>/tags/soya/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/soya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soya-chunks</title>
+      <link>/tags/soya-chunks/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/soya-chunks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aloo</title>
+      <link>/tags/aloo/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aloo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>batata</title>
+      <link>/tags/batata/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/batata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cutlet</title>
+      <link>/tags/cutlet/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cutlet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poha</title>
+      <link>/tags/poha/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/poha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>potato</title>
+      <link>/tags/potato/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/potato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yummy</title>
+      <link>/tags/yummy/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/yummy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cake</title>
+      <link>/tags/cake/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no-egg</title>
+      <link>/tags/no-egg/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/no-egg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no-oven</title>
+      <link>/tags/no-oven/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/no-oven/</guid>
       <description></description>
     </item>
     
@@ -191,16 +353,7 @@
     </item>
     
     <item>
-      <title>Mushroom</title>
-      <link>/tags/mushroom/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mushroom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spicy</title>
+      <title>spicy</title>
       <link>/tags/spicy/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -236,15 +389,6 @@
     </item>
     
     <item>
-      <title>curry</title>
-      <link>/tags/curry/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/curry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tasty</title>
       <link>/tags/tasty/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
@@ -254,7 +398,7 @@
     </item>
     
     <item>
-      <title>cheese</title>
+      <title>Cheese</title>
       <link>/tags/cheese/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -340,15 +484,6 @@
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/veg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Corn</title>
-      <link>/tags/corn/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/corn/</guid>
       <description></description>
     </item>
     
@@ -583,15 +718,6 @@
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/spring-onion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cake</title>
-      <link>/tags/cake/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cake/</guid>
       <description></description>
     </item>
     
