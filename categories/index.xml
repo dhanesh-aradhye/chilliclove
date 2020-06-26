@@ -5,7 +5,7 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,34 +13,34 @@
     <item>
       <title>Snack</title>
       <link>/categories/snack/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/snack/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sweets</title>
-      <link>/categories/sweets/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/sweets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Curry</title>
       <link>/categories/curry/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/curry/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Sweets</title>
+      <link>/categories/sweets/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Meal</title>
       <link>/categories/meal/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/meal/</guid>
       <description></description>
