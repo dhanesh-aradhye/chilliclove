@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>aloo</title>
+      <title>Aloo</title>
       <link>/tags/aloo/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>batata</title>
+      <title>Batata</title>
       <link>/tags/batata/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>cutlet</title>
+      <title>Cutlet</title>
       <link>/tags/cutlet/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,16 @@
     </item>
     
     <item>
-      <title>poha</title>
+      <title>Easy</title>
+      <link>/tags/easy/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/easy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poha</title>
       <link>/tags/poha/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -47,7 +56,7 @@
     </item>
     
     <item>
-      <title>potato</title>
+      <title>Potato</title>
       <link>/tags/potato/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -56,7 +65,7 @@
     </item>
     
     <item>
-      <title>yummy</title>
+      <title>Yummy</title>
       <link>/tags/yummy/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -65,7 +74,7 @@
     </item>
     
     <item>
-      <title>curry</title>
+      <title>Curry</title>
       <link>/tags/curry/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -74,7 +83,7 @@
     </item>
     
     <item>
-      <title>protein-rich</title>
+      <title>Protein Rich</title>
       <link>/tags/protein-rich/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -83,7 +92,7 @@
     </item>
     
     <item>
-      <title>soya</title>
+      <title>Soya</title>
       <link>/tags/soya/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -92,7 +101,7 @@
     </item>
     
     <item>
-      <title>soya-chunks</title>
+      <title>Soya Chunks</title>
       <link>/tags/soya-chunks/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -101,7 +110,7 @@
     </item>
     
     <item>
-      <title>cake</title>
+      <title>Cake</title>
       <link>/tags/cake/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -110,7 +119,16 @@
     </item>
     
     <item>
-      <title>no-egg</title>
+      <title>Eggless</title>
+      <link>/tags/eggless/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/eggless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Egg</title>
       <link>/tags/no-egg/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -119,7 +137,7 @@
     </item>
     
     <item>
-      <title>no-oven</title>
+      <title>No Oven</title>
       <link>/tags/no-oven/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -155,7 +173,7 @@
     </item>
     
     <item>
-      <title>healthy</title>
+      <title>Healthy</title>
       <link>/tags/healthy/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
@@ -173,7 +191,7 @@
     </item>
     
     <item>
-      <title>paneer</title>
+      <title>Paneer</title>
       <link>/tags/paneer/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
@@ -191,7 +209,7 @@
     </item>
     
     <item>
-      <title>capsicum</title>
+      <title>Capsicum</title>
       <link>/tags/capsicum/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
@@ -200,7 +218,7 @@
     </item>
     
     <item>
-      <title>gravy</title>
+      <title>Gravy</title>
       <link>/tags/gravy/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
@@ -209,7 +227,7 @@
     </item>
     
     <item>
-      <title>masala</title>
+      <title>Masala</title>
       <link>/tags/masala/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       
@@ -227,16 +245,7 @@
     </item>
     
     <item>
-      <title>easy cake</title>
-      <link>/tags/easy-cake/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/easy-cake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pancake</title>
+      <title>Pancake</title>
       <link>/tags/pancake/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
@@ -245,7 +254,16 @@
     </item>
     
     <item>
-      <title>wheat cake</title>
+      <title>Quick Recipe</title>
+      <link>/tags/quick-recipe/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quick-recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wheat Cake</title>
       <link>/tags/wheat-cake/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
@@ -290,29 +308,11 @@
     </item>
     
     <item>
-      <title>cheese</title>
+      <title>Cheese</title>
       <link>/tags/cheese/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/cheese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Easy</title>
-      <link>/tags/easy/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/easy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quick recipe</title>
-      <link>/tags/quick-recipe/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/quick-recipe/</guid>
       <description></description>
     </item>
     
@@ -335,7 +335,7 @@
     </item>
     
     <item>
-      <title>anda biryani</title>
+      <title>Anda Biryani</title>
       <link>/tags/anda-biryani/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -344,7 +344,7 @@
     </item>
     
     <item>
-      <title>biryani</title>
+      <title>Biryani</title>
       <link>/tags/biryani/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -353,7 +353,7 @@
     </item>
     
     <item>
-      <title>egg</title>
+      <title>Egg</title>
       <link>/tags/egg/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -362,20 +362,11 @@
     </item>
     
     <item>
-      <title>egg biryani</title>
+      <title>Egg Biryani</title>
       <link>/tags/egg-biryani/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/egg-biryani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rice</title>
-      <link>/tags/rice/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rice/</guid>
       <description></description>
     </item>
     
@@ -434,7 +425,7 @@
     </item>
     
     <item>
-      <title>bhaji</title>
+      <title>Bhaji</title>
       <link>/tags/bhaji/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -443,7 +434,7 @@
     </item>
     
     <item>
-      <title>black pepper</title>
+      <title>Black Pepper</title>
       <link>/tags/black-pepper/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -452,7 +443,7 @@
     </item>
     
     <item>
-      <title>cauliflower</title>
+      <title>Cauliflower</title>
       <link>/tags/cauliflower/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -461,7 +452,7 @@
     </item>
     
     <item>
-      <title>tasty</title>
+      <title>Tasty</title>
       <link>/tags/tasty/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -506,7 +497,7 @@
     </item>
     
     <item>
-      <title>Tasty snack</title>
+      <title>Tasty Snack</title>
       <link>/tags/tasty-snack/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -542,7 +533,7 @@
     </item>
     
     <item>
-      <title>Waraiche tandul</title>
+      <title>Waraiche Tandul</title>
       <link>/tags/waraiche-tandul/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -551,7 +542,16 @@
     </item>
     
     <item>
-      <title>halwa</title>
+      <title>Dates</title>
+      <link>/tags/dates/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halwa</title>
       <link>/tags/halwa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -560,7 +560,7 @@
     </item>
     
     <item>
-      <title>khajoor</title>
+      <title>Khajoor</title>
       <link>/tags/khajoor/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
@@ -569,7 +569,7 @@
     </item>
     
     <item>
-      <title>rasgulla</title>
+      <title>Rasgulla</title>
       <link>/tags/rasgulla/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -578,7 +578,7 @@
     </item>
     
     <item>
-      <title>idli</title>
+      <title>Idli</title>
       <link>/tags/idli/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -587,7 +587,7 @@
     </item>
     
     <item>
-      <title>pulao</title>
+      <title>Pulao</title>
       <link>/tags/pulao/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -596,7 +596,7 @@
     </item>
     
     <item>
-      <title>puran</title>
+      <title>Puran</title>
       <link>/tags/puran/</link>
       <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -605,7 +605,7 @@
     </item>
     
     <item>
-      <title>parwal</title>
+      <title>Parwal</title>
       <link>/tags/parwal/</link>
       <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -614,7 +614,7 @@
     </item>
     
     <item>
-      <title>pointed-gourd</title>
+      <title>Pointed Gourd</title>
       <link>/tags/pointed-gourd/</link>
       <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -623,7 +623,7 @@
     </item>
     
     <item>
-      <title>chutni</title>
+      <title>Chutni</title>
       <link>/tags/chutni/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -632,7 +632,16 @@
     </item>
     
     <item>
-      <title>momo</title>
+      <title>Fry</title>
+      <link>/tags/fry/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momo</title>
       <link>/tags/momo/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -641,16 +650,7 @@
     </item>
     
     <item>
-      <title>momos</title>
-      <link>/tags/momos/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/momos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sweet-corn</title>
+      <title>Sweet Corn</title>
       <link>/tags/sweet-corn/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -659,7 +659,7 @@
     </item>
     
     <item>
-      <title>coconut</title>
+      <title>Coconut</title>
       <link>/tags/coconut/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -668,7 +668,7 @@
     </item>
     
     <item>
-      <title>dosa</title>
+      <title>Dosa</title>
       <link>/tags/dosa/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -677,7 +677,16 @@
     </item>
     
     <item>
-      <title>lauki</title>
+      <title>Dudhi</title>
+      <link>/tags/dudhi/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dudhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lauki</title>
       <link>/tags/lauki/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -686,7 +695,7 @@
     </item>
     
     <item>
-      <title>pohe</title>
+      <title>Pohe</title>
       <link>/tags/pohe/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -695,7 +704,7 @@
     </item>
     
     <item>
-      <title>flax</title>
+      <title>Flax</title>
       <link>/tags/flax/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -704,7 +713,7 @@
     </item>
     
     <item>
-      <title>jawas</title>
+      <title>Jawas</title>
       <link>/tags/jawas/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -713,7 +722,7 @@
     </item>
     
     <item>
-      <title>spring-onion</title>
+      <title>Spring Onion</title>
       <link>/tags/spring-onion/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -722,7 +731,7 @@
     </item>
     
     <item>
-      <title>awla</title>
+      <title>Awla</title>
       <link>/tags/awla/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -731,7 +740,7 @@
     </item>
     
     <item>
-      <title>alu-wadi</title>
+      <title>Alu Wadi</title>
       <link>/tags/alu-wadi/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -740,16 +749,7 @@
     </item>
     
     <item>
-      <title>fry</title>
-      <link>/tags/fry/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>taro-leaves</title>
+      <title>Taro Leaves</title>
       <link>/tags/taro-leaves/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -758,7 +758,7 @@
     </item>
     
     <item>
-      <title>alu-bhaji</title>
+      <title>Alu Bhaji</title>
       <link>/tags/alu-bhaji/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -767,7 +767,7 @@
     </item>
     
     <item>
-      <title>prawns</title>
+      <title>Prawns</title>
       <link>/tags/prawns/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       

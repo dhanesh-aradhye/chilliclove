@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fry on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
+    <title>Fry on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
     <link>/tags/fry/</link>
-    <description>Recent content in fry on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
+    <description>Recent content in Fry on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/fry/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bhendi Fry (भेंडी बटाटा फ्राय)</title>
+      <title>स्वीट कॉर्नची भजी (Sweet Corn bhajji)</title>
+      <link>/sweet-corn-bhajji/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/sweet-corn-bhajji/</guid>
+      <description>English Marathi स्वीट कॉर्नची भजी साहित्य:  स्वीट कॉर्नचे दाणे (गोड मका) - २०० ग्रॅ २ मिरच्या, ४ चमचे बेसन, १ छोटा चमचा जिरे, मीठ, कोथिंबीर  कृती:  प्रथम मिरची, मीठ, जिरे, व कोथिंबीर मिक्सर मध्ये बारीक वाटून घेणे.</description>
+    </item>
+    
+    <item>
+      <title>भेंडी बटाटा फ्राय (Bhendi Potato Fry)</title>
       <link>/bhendi-batata-fry/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
