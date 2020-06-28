@@ -63,12 +63,12 @@
   </url>
   
   <url>
-    <loc>https://chilliclove.com/categories/curry/</loc>
+    <loc>https://chilliclove.com/tags/curry/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chilliclove.com/tags/curry/</loc>
+    <loc>https://chilliclove.com/categories/curry/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -393,11 +393,6 @@
   </url>
   
   <url>
-    <loc>https://chilliclove.com/bhagar-amti/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chilliclove.com/tags/danyachi-aamti/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
@@ -409,6 +404,11 @@
   
   <url>
     <loc>https://chilliclove.com/tags/waraiche-tandul/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/bhagar-amti/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
