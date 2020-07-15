@@ -5,15 +5,42 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Salad</title>
+      <link>/categories/salad/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice</title>
+      <link>/categories/rice/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dessert</title>
+      <link>/categories/dessert/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Snack</title>
       <link>/categories/snack/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/snack/</guid>
       <description></description>
@@ -43,24 +70,6 @@
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/meal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rice</title>
-      <link>/categories/rice/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dessert</title>
-      <link>/categories/dessert/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/dessert/</guid>
       <description></description>
     </item>
     
@@ -101,11 +110,11 @@
     </item>
     
     <item>
-      <title>Pickle</title>
-      <link>/categories/pickle/</link>
+      <title>Side dish</title>
+      <link>/categories/side-dish/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/pickle/</guid>
+      <guid>/categories/side-dish/</guid>
       <description></description>
     </item>
     
