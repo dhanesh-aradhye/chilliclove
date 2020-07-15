@@ -33,7 +33,21 @@
 
 <link rel='manifest'  href='/manifest.json'>
 
+<script>
+    
 
+</script> tag, or add the js file to your page at the very top to register service worker
+// If you get an error about not being able to import, double check that you have type="module" on your <script /> tag
+
+
+
+
+import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+const el = document.createElement('pwa-update');
+document.body.appendChild(el);
+
+</script>
   <script data-ad-client="ca-pub-8274208900482192" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
