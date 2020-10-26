@@ -3,857 +3,987 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https:chilliclove.com/categories/</loc>
+    <loc>https://chilliclove.com/categories/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/categories/dessert/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/kheer/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/semiya/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/shevai/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/semiya-kheer/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/dosa/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/moong/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/categories/snack/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/south-indian/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/moong-dosa/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/anda/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/curry/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/categories/curry/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/egg/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/categories/meal/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/egg-curry/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/chilli/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/less-spicy/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/mirchi/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/mirchicha-kharda/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/paneer/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/categories/rice/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/tomato-rice/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tomato-paneer-rice/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/carrot/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/gajar/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/halwa/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/sweets/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/gajar-halwa/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/mix-veg/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/vegetables/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/mix-veg-handi/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/basundi/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/custard-apple/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/sitaphal/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/sweet/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/sitaphal-basundi/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/cucumber/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/ghavan/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/kakdi/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/tags/pancake/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/kakdiche-ghavan/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chilliclove.com/categories/salad/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/</loc>
+    <loc>https://chilliclove.com/tags/salads/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/salad/</loc>
+    <loc>https://chilliclove.com/tags/sweetcorn/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/salads/</loc>
+    <loc>https://chilliclove.com/corn-mayo-salad/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/sweetcorn/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/corn-mayo-salad/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/corn-recipes/</loc>
+    <loc>https://chilliclove.com/tags/corn-recipes/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/pulao/</loc>
+    <loc>https://chilliclove.com/tags/pulao/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/rice/</loc>
+    <loc>https://chilliclove.com/tags/vegetable-pulao/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/vegetable-pulao/</loc>
+    <loc>https://chilliclove.com/sweetcorn-pulao/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/sweetcorn-pulao/</loc>
-    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/categories/dessert/</loc>
+    <loc>https://chilliclove.com/tags/firni/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/firni/</loc>
+    <loc>https://chilliclove.com/tags/mango/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/mango/</loc>
+    <loc>https://chilliclove.com/mango-firni/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/sweets/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/mango-firni/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/dosa/</loc>
+    <loc>https://chilliclove.com/tags/soft/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/snack/</loc>
+    <loc>https://chilliclove.com/sponge-dosa/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/soft/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/south-indian/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/sponge-dosa/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/appam/</loc>
+    <loc>https://chilliclove.com/tags/appam/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/curd/</loc>
+    <loc>https://chilliclove.com/tags/curd/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/suji/</loc>
+    <loc>https://chilliclove.com/tags/suji/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/suji-appam/</loc>
+    <loc>https://chilliclove.com/suji-appam/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/aloo/</loc>
+    <loc>https://chilliclove.com/tags/aloo/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/batata/</loc>
+    <loc>https://chilliclove.com/tags/batata/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/cutlet/</loc>
+    <loc>https://chilliclove.com/tags/cutlet/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/easy/</loc>
+    <loc>https://chilliclove.com/tags/easy/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/poha/</loc>
+    <loc>https://chilliclove.com/tags/poha/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/potato/</loc>
+    <loc>https://chilliclove.com/tags/potato/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/yummy/</loc>
+    <loc>https://chilliclove.com/tags/yummy/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/poha-batata-cutlet/</loc>
+    <loc>https://chilliclove.com/poha-batata-cutlet/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/carrot/</loc>
+    <loc>https://chilliclove.com/tags/cauliflower/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/cauliflower/</loc>
+    <loc>https://chilliclove.com/tags/franch-beans/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/franch-beans/</loc>
+    <loc>https://chilliclove.com/tags/raita/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/raita/</loc>
+    <loc>https://chilliclove.com/multicolor-vegetable-raita/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/multicolor-vegetable-raita/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/curry/</loc>
+    <loc>https://chilliclove.com/tags/protein-rich/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/curry/</loc>
+    <loc>https://chilliclove.com/tags/soya/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/protein-rich/</loc>
+    <loc>https://chilliclove.com/tags/soya-chunks/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/soya/</loc>
+    <loc>https://chilliclove.com/soya-chunks-masala/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/soya-chunks/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/soya-chunks-masala/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/cake/</loc>
+    <loc>https://chilliclove.com/tags/cake/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/eggless/</loc>
+    <loc>https://chilliclove.com/tags/eggless/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/no-egg/</loc>
+    <loc>https://chilliclove.com/tags/no-egg/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/no-oven/</loc>
+    <loc>https://chilliclove.com/tags/no-oven/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/sweet/</loc>
+    <loc>https://chilliclove.com/categories/sweets/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/sweets/</loc>
+    <loc>https://chilliclove.com/cake-without-oven/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/cake-without-oven/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/corn/</loc>
+    <loc>https://chilliclove.com/tags/corn/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/franky/</loc>
+    <loc>https://chilliclove.com/tags/franky/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/healthy/</loc>
+    <loc>https://chilliclove.com/tags/healthy/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/meal/</loc>
+    <loc>https://chilliclove.com/tags/palak/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/palak/</loc>
+    <loc>https://chilliclove.com/tags/roll/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/paneer/</loc>
+    <loc>https://chilliclove.com/corn-palak-paneer-roll/</loc>
     <lastmod>2020-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/roll/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/corn-palak-paneer-roll/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/capsicum/</loc>
+    <loc>https://chilliclove.com/tags/capsicum/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/gravy/</loc>
+    <loc>https://chilliclove.com/tags/gravy/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/masala/</loc>
+    <loc>https://chilliclove.com/tags/masala/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/mushroom/</loc>
+    <loc>https://chilliclove.com/tags/mushroom/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/mushroom-capsicum-corn-masala/</loc>
+    <loc>https://chilliclove.com/mushroom-capsicum-corn-masala/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/pancake/</loc>
+    <loc>https://chilliclove.com/tags/quick-recipe/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/quick-recipe/</loc>
+    <loc>https://chilliclove.com/tags/wheat-cake/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/wheat-cake/</loc>
+    <loc>https://chilliclove.com/pancake/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/pancake/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/amba/</loc>
+    <loc>https://chilliclove.com/tags/amba/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/kalakand/</loc>
+    <loc>https://chilliclove.com/tags/kalakand/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/milk/</loc>
+    <loc>https://chilliclove.com/tags/milk/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/mongo-kalakand/</loc>
+    <loc>https://chilliclove.com/mongo-kalakand/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/cheese/</loc>
+    <loc>https://chilliclove.com/tags/cheese/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/sandwich/</loc>
+    <loc>https://chilliclove.com/tags/sandwich/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/veg/</loc>
+    <loc>https://chilliclove.com/tags/veg/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/easy-veg-cheese-sandwich/</loc>
+    <loc>https://chilliclove.com/easy-veg-cheese-sandwich/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/anda-biryani/</loc>
+    <loc>https://chilliclove.com/tags/anda-biryani/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/biryani/</loc>
+    <loc>https://chilliclove.com/tags/biryani/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/egg/</loc>
+    <loc>https://chilliclove.com/tags/egg-biryani/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/egg-biryani/</loc>
+    <loc>https://chilliclove.com/egg-biryani/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/egg-biryani/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/vegetable/</loc>
+    <loc>https://chilliclove.com/tags/vegetable/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/veg-biryani/</loc>
+    <loc>https://chilliclove.com/veg-biryani/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/delicious/</loc>
+    <loc>https://chilliclove.com/tags/delicious/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/khichdi/</loc>
+    <loc>https://chilliclove.com/tags/khichdi/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/palak-khichdi/</loc>
+    <loc>https://chilliclove.com/palak-khichdi/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/chilli/</loc>
+    <loc>https://chilliclove.com/tags/chinese/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/chinese/</loc>
+    <loc>https://chilliclove.com/tags/spicy/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/spicy/</loc>
+    <loc>https://chilliclove.com/chilli-mushroom/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/chilli-mushroom/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/bhaji/</loc>
+    <loc>https://chilliclove.com/tags/bhaji/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/black-pepper/</loc>
+    <loc>https://chilliclove.com/tags/black-pepper/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/tasty/</loc>
+    <loc>https://chilliclove.com/tags/tasty/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/flowerchi-bhaji/</loc>
+    <loc>https://chilliclove.com/flowerchi-bhaji/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/italian/</loc>
+    <loc>https://chilliclove.com/tags/italian/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/pasta/</loc>
+    <loc>https://chilliclove.com/tags/pasta/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/red-sauce/</loc>
+    <loc>https://chilliclove.com/tags/red-sauce/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/tangy/</loc>
+    <loc>https://chilliclove.com/tags/tangy/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/tasty-snack/</loc>
+    <loc>https://chilliclove.com/tags/tasty-snack/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/red-sauce-pasta/</loc>
+    <loc>https://chilliclove.com/red-sauce-pasta/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/barnyard-millet/</loc>
+    <loc>https://chilliclove.com/tags/barnyard-millet/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/bhagar/</loc>
+    <loc>https://chilliclove.com/tags/bhagar/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/danyachi-aamti/</loc>
+    <loc>https://chilliclove.com/tags/danyachi-aamti/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/fasting-menu/</loc>
+    <loc>https://chilliclove.com/tags/fasting-menu/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/waraiche-tandul/</loc>
+    <loc>https://chilliclove.com/tags/waraiche-tandul/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/bhagar-amti/</loc>
+    <loc>https://chilliclove.com/bhagar-amti/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/dates/</loc>
+    <loc>https://chilliclove.com/tags/dates/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/halwa/</loc>
+    <loc>https://chilliclove.com/tags/khajoor/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/khajoor/</loc>
+    <loc>https://chilliclove.com/categories/snacks/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/snacks/</loc>
+    <loc>https://chilliclove.com/khajoor-kanik-sheera-halwa/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/khajoor-kanik-sheera-halwa/</loc>
+    <loc>https://chilliclove.com/veg-cheese-roll/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/veg-cheese-roll/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https:chilliclove.com/tags/rasgulla/</loc>
+    <loc>https://chilliclove.com/tags/rasgulla/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/rasgulla/</loc>
+    <loc>https://chilliclove.com/rasgulla/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/idli/</loc>
+    <loc>https://chilliclove.com/tags/idli/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/lunch/</loc>
+    <loc>https://chilliclove.com/categories/lunch/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tawa-pulao/</loc>
+    <loc>https://chilliclove.com/tawa-pulao/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/masala-idli/</loc>
+    <loc>https://chilliclove.com/masala-idli/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/palak-paneer/</loc>
+    <loc>https://chilliclove.com/palak-paneer/</loc>
     <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/matar-paneer/</loc>
+    <loc>https://chilliclove.com/matar-paneer/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/puran/</loc>
+    <loc>https://chilliclove.com/tags/puran/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/puranachi-poli/</loc>
+    <loc>https://chilliclove.com/puranachi-poli/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/parwal/</loc>
+    <loc>https://chilliclove.com/tags/parwal/</loc>
     <lastmod>2019-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/pointed-gourd/</loc>
+    <loc>https://chilliclove.com/tags/pointed-gourd/</loc>
     <lastmod>2019-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/parwal-bhaji/</loc>
+    <loc>https://chilliclove.com/parwal-bhaji/</loc>
     <lastmod>2019-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/chutni/</loc>
+    <loc>https://chilliclove.com/tags/chutni/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/fry/</loc>
+    <loc>https://chilliclove.com/tags/fry/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/momo/</loc>
+    <loc>https://chilliclove.com/tags/momo/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/sweet-corn/</loc>
+    <loc>https://chilliclove.com/tags/sweet-corn/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/chutni-momo/</loc>
+    <loc>https://chilliclove.com/chutni-momo/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/veg-momos/</loc>
+    <loc>https://chilliclove.com/veg-momos/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/sweet-corn-cheese-cutlet/</loc>
+    <loc>https://chilliclove.com/sweet-corn-cheese-cutlet/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/sweet-corn-bhajji/</loc>
+    <loc>https://chilliclove.com/sweet-corn-bhajji/</loc>
     <lastmod>2019-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/coconut/</loc>
+    <loc>https://chilliclove.com/tags/coconut/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/narali-bhat/</loc>
+    <loc>https://chilliclove.com/narali-bhat/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/hapus-amba-bhat/</loc>
+    <loc>https://chilliclove.com/hapus-amba-bhat/</loc>
     <lastmod>2019-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/davangiri-dosa/</loc>
+    <loc>https://chilliclove.com/davangiri-dosa/</loc>
     <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/bhaji/</loc>
+    <loc>https://chilliclove.com/categories/bhaji/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/dudhi/</loc>
+    <loc>https://chilliclove.com/tags/dudhi/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/lauki/</loc>
+    <loc>https://chilliclove.com/tags/lauki/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/pohe/</loc>
+    <loc>https://chilliclove.com/tags/pohe/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/dadpe-pohe/</loc>
+    <loc>https://chilliclove.com/dadpe-pohe/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/dudhi-bhopla-bhaji/</loc>
+    <loc>https://chilliclove.com/dudhi-bhopla-bhaji/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/flax/</loc>
+    <loc>https://chilliclove.com/tags/flax/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/jawas/</loc>
+    <loc>https://chilliclove.com/tags/jawas/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/sides/</loc>
+    <loc>https://chilliclove.com/categories/sides/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/jawas-chutni/</loc>
+    <loc>https://chilliclove.com/jawas-chutni/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/sabji/</loc>
+    <loc>https://chilliclove.com/tags/sabji/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/spring-onion/</loc>
+    <loc>https://chilliclove.com/tags/spring-onion/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/kandyachya-paatichi-bhaji/</loc>
+    <loc>https://chilliclove.com/kandyachya-paatichi-bhaji/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/about/</loc>
+    <loc>https://chilliclove.com/about/</loc>
     <lastmod>2019-12-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/kankecha-cake/</loc>
+    <loc>https://chilliclove.com/kankecha-cake/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/amla/</loc>
+    <loc>https://chilliclove.com/tags/amla/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/awla/</loc>
+    <loc>https://chilliclove.com/tags/awla/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/pickle/</loc>
+    <loc>https://chilliclove.com/tags/pickle/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/categories/side-dish/</loc>
+    <loc>https://chilliclove.com/categories/side-dish/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/awlyache-loncha/</loc>
+    <loc>https://chilliclove.com/awlyache-loncha/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/paneer-butter-masala/</loc>
+    <loc>https://chilliclove.com/paneer-butter-masala/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/alu-wadi/</loc>
+    <loc>https://chilliclove.com/tags/alu-wadi/</loc>
     <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/taro-leaves/</loc>
+    <loc>https://chilliclove.com/tags/taro-leaves/</loc>
     <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/alu-wadi/</loc>
+    <loc>https://chilliclove.com/alu-wadi/</loc>
     <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/bhendi-batata-fry/</loc>
+    <loc>https://chilliclove.com/bhendi-batata-fry/</loc>
     <lastmod>2019-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/alu-bhaji/</loc>
+    <loc>https://chilliclove.com/tags/alu-bhaji/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/aluchi-patal-bhaji/</loc>
+    <loc>https://chilliclove.com/aluchi-patal-bhaji/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/tags/prawns/</loc>
+    <loc>https://chilliclove.com/tags/prawns/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/dry-prawns/</loc>
+    <loc>https://chilliclove.com/dry-prawns/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/privacy-policy/</loc>
+    <loc>https://chilliclove.com/privacy-policy/</loc>
     <lastmod>2019-12-01T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/terms-of-use/</loc>
+    <loc>https://chilliclove.com/terms-of-use/</loc>
     <lastmod>2019-12-01T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/contact/</loc>
+    <loc>https://chilliclove.com/contact/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https:chilliclove.com/search/</loc>
+    <loc>https://chilliclove.com/search/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
