@@ -2,119 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>/categories/</link>
+    <link>https://chilliclove.com/categories/</link>
     <description>Recent content in Categories on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dessert</title>
-      <link>/categories/dessert/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <link>https://chilliclove.com/categories/dessert/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Snack</title>
-      <link>/categories/snack/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/snack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Curry</title>
-      <link>/categories/curry/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/curry/</guid>
+      <guid>https://chilliclove.com/categories/dessert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meal</title>
-      <link>/categories/meal/</link>
+      <link>https://chilliclove.com/categories/meal/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chilliclove.com/categories/meal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snack</title>
+      <link>https://chilliclove.com/categories/snack/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chilliclove.com/categories/snack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curry</title>
+      <link>https://chilliclove.com/categories/curry/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/meal/</guid>
+      <guid>https://chilliclove.com/categories/curry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rice</title>
-      <link>/categories/rice/</link>
+      <link>https://chilliclove.com/categories/rice/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/rice/</guid>
+      <guid>https://chilliclove.com/categories/rice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Salad</title>
-      <link>/categories/salad/</link>
+      <link>https://chilliclove.com/categories/salad/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/salad/</guid>
+      <guid>https://chilliclove.com/categories/salad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sweets</title>
-      <link>/categories/sweets/</link>
+      <link>https://chilliclove.com/categories/sweets/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sweets/</guid>
+      <guid>https://chilliclove.com/categories/sweets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snacks</title>
-      <link>/categories/snacks/</link>
+      <link>https://chilliclove.com/categories/snacks/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/snacks/</guid>
+      <guid>https://chilliclove.com/categories/snacks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lunch</title>
-      <link>/categories/lunch/</link>
+      <link>https://chilliclove.com/categories/lunch/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/lunch/</guid>
+      <guid>https://chilliclove.com/categories/lunch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bhaji</title>
-      <link>/categories/bhaji/</link>
+      <link>https://chilliclove.com/categories/bhaji/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/bhaji/</guid>
+      <guid>https://chilliclove.com/categories/bhaji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sides</title>
-      <link>/categories/sides/</link>
+      <link>https://chilliclove.com/categories/sides/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sides/</guid>
+      <guid>https://chilliclove.com/categories/sides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side dish</title>
-      <link>/categories/side-dish/</link>
+      <link>https://chilliclove.com/categories/side-dish/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/side-dish/</guid>
+      <guid>https://chilliclove.com/categories/side-dish/</guid>
       <description></description>
     </item>
     
