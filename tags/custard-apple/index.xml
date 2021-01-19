@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Custard apple on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/custard-apple/</link>
+    <link>/tags/custard-apple/</link>
     <description>Recent content in Custard apple on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/custard-apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/custard-apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>सीताफळाची बासुंदी (Sitaphal Basundi)</title>
-      <link>https://chilliclove.com/sitaphal-basundi/</link>
+      <link>/sitaphal-basundi/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/sitaphal-basundi/</guid>
+      <guid>/sitaphal-basundi/</guid>
       <description>English Marathi सीताफळाची बासुंदी साहित्य:  १ लिटर म्हशीचे दूध (सायीसकट) पाव वाटी साखर ५-६ बदाम १ मोठे पिकलेले सीताफळ केशराच्या ७-८ काड्या  कृती:  बदाम भिजत घालावेत.</description>
     </item>
     

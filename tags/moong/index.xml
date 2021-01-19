@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moong on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/moong/</link>
+    <link>/tags/moong/</link>
     <description>Recent content in Moong on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/moong/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/moong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>मुगाचा डोसा (Moong Dosa)</title>
-      <link>https://chilliclove.com/moong-dosa/</link>
+      <link>/moong-dosa/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/moong-dosa/</guid>
+      <guid>/moong-dosa/</guid>
       <description>English Marathi मुगाचा डोसा साहित्य:  दीड वाटी हिरवे मूग ५-६ लसूणपाकळ्या १ इंच आल्याचा तुकडा १ हिरवी तिखट मिरची मूठभर कोथिंबीर १ टीस्पून जिरे मीठ चवीनुसार तेल  कृती:  मूग निवडून स्वच्छ धुवून ७-८ तास भिजत घालावे.</description>
     </item>
     

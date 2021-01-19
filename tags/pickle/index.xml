@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pickle on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/pickle/</link>
+    <link>/tags/pickle/</link>
     <description>Recent content in Pickle on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/pickle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pickle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>आवळ्याचे लोणचे (Amla Pickle)</title>
-      <link>https://chilliclove.com/awlyache-loncha/</link>
+      <link>/awlyache-loncha/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/awlyache-loncha/</guid>
+      <guid>/awlyache-loncha/</guid>
       <description>English Marathi आवळ्याचे लोणचे साहित्य:  पाव किलो आवळे (साधारणपणे ९-१० येतात) ४ टेबलस्पून मीठ ३ टीस्पून मोहरी २ टीस्पून तळलेले मेथीदाणे २ टीस्पून तिखट फोडणीसाठी ४ चमचे तेल १ टीस्पून हिंग १ टीस्पून हळद  कृती:  आवळे स्वच्छ धुवून पुसून एका भांड्यात घालून कूकर मध्ये उकडून घ्यावे.</description>
     </item>
     

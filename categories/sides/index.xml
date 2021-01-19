@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sides on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/categories/sides/</link>
+    <link>/categories/sides/</link>
     <description>Recent content in Sides on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/categories/sides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/sides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>जवसाची चटणी (Jawas Chutni)</title>
-      <link>https://chilliclove.com/jawas-chutni/</link>
+      <link>/jawas-chutni/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/jawas-chutni/</guid>
+      <guid>/jawas-chutni/</guid>
       <description>English Marathi जवसाची चटणी साहित्य:  जवस १०० ग्रॅ ५-६ सुक्या लाल मिरच्या (गुंटूर मिरच्या), २ चमचे जिरे, मीठ  कृती:  जवस व लाल मिरच्या कढईमधे घालून एकदम हलका धूर येईपर्यंत भाजून घ्यावे.</description>
     </item>
     

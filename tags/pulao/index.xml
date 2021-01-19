@@ -2,25 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pulao on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/pulao/</link>
+    <link>/tags/pulao/</link>
     <description>Recent content in Pulao on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/pulao/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pulao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>स्वीटकॉर्न पुलाव (Sweetcorn Pulao)</title>
-      <link>https://chilliclove.com/sweetcorn-pulao/</link>
+      <link>/sweetcorn-pulao/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/sweetcorn-pulao/</guid>
+      <guid>/sweetcorn-pulao/</guid>
       <description>English Marathi स्वीटकॉर्न पुलाव साहित्य:  २ वाट्या बासमती आख्खा तांदूळ १ वाटी स्वीटकॉर्नचे वाफवलेले दाणे १ वाटी उभे चिरलेले गाजराचे तुकडे अर्धी वाटी उभे चिरलेले फरसबी ३-४ छोट्या हिरव्या मिरच्या ४ लवंगा ५-६ छोटे दालचिनी तुकडे २ टीस्पून जिरे ३ चमचे तेल चवीनुसार मीठ  कृती:  तांदूळ धुवून, पाण्यामध्ये १५-२० मिनिटे भिजत ठेवावेत.</description>
     </item>
     
     <item>
       <title>तवा पुलाव (Tawa Puloa)</title>
-      <link>https://chilliclove.com/tawa-pulao/</link>
+      <link>/tawa-pulao/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/tawa-pulao/</guid>
+      <guid>/tawa-pulao/</guid>
       <description>English Marathi तवा पुलाव (४ माणसांसाठी) साहित्य:  २ वाट्या बासमती तांदूळ, अर्धी वाटी चिरलेला फ्लॉवर, २ मध्यम आकाराचे टोमॅटो बारीक चिरून, २ मध्यम आकाराचे कांदे बारीक चिरून, पाव वाटी चिरलेले फरसबी, १ छोटे गाजर बारीक चौकोनी चिरून, १ मध्यम आकाराची सिमला मिरची बारीक चौकोनी चिरून, पाव वाटी मटारदाणे, २ चमचे बटर, १ चमचा तेल, १ टीस्पून आले लसूण पेस्ट, अर्धा टीस्पून जिरे, दीड टीस्पून पावभाजी मसाला, अर्धा टीस्पून मिरची पावडर, मीठ चवीनुसार.</description>
     </item>
     

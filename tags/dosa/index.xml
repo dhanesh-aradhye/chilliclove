@@ -2,34 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dosa on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/dosa/</link>
+    <link>/tags/dosa/</link>
     <description>Recent content in Dosa on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/dosa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dosa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>मुगाचा डोसा (Moong Dosa)</title>
-      <link>https://chilliclove.com/moong-dosa/</link>
+      <link>/moong-dosa/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/moong-dosa/</guid>
+      <guid>/moong-dosa/</guid>
       <description>English Marathi मुगाचा डोसा साहित्य:  दीड वाटी हिरवे मूग ५-६ लसूणपाकळ्या १ इंच आल्याचा तुकडा १ हिरवी तिखट मिरची मूठभर कोथिंबीर १ टीस्पून जिरे मीठ चवीनुसार तेल  कृती:  मूग निवडून स्वच्छ धुवून ७-८ तास भिजत घालावे.</description>
     </item>
     
     <item>
       <title>स्पॉंज डोसा (Sponge Dosa)</title>
-      <link>https://chilliclove.com/sponge-dosa/</link>
+      <link>/sponge-dosa/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/sponge-dosa/</guid>
+      <guid>/sponge-dosa/</guid>
       <description>English Marathi स्पॉंज डोसा साहित्य:  २ वाटी तांदूळ पाऊण वाटी उडीद डाळ पाव वाटी जाड पोहे पाव वाटी साबुदाणा अर्धा टीस्पून मेथीदाणे २ टीस्पून मीठ तेल  कृती:  तांदूळ, उडीद डाळ, जाड पोहे, साबुदाणा, मेथीदाणे हे सर्व पदार्थ एका पातेल्यात घेऊन, स्वच्छ धुवून घ्यावेत.</description>
     </item>
     
     <item>
       <title>दावणगिरी डोसा (Davangiri Dosa)</title>
-      <link>https://chilliclove.com/davangiri-dosa/</link>
+      <link>/davangiri-dosa/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/davangiri-dosa/</guid>
+      <guid>/davangiri-dosa/</guid>
       <description>English Marathi दावणगिरी डोसा (साधारणपणे १८ मध्यम आकाराच्या डोश्यांसाठी) साहित्य:  २ वाट्या तांदूळ, अर्धी वाटी जाड पोहे, पाव वाटी उडीद डाळ, पाव वाटी साबुदाणा, १५-२० मेथीदाणे, १ छोटा चमचा खाण्याचा सोडा, १२५ ग्रॅ.</description>
     </item>
     

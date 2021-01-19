@@ -2,25 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salad on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/categories/salad/</link>
+    <link>/categories/salad/</link>
     <description>Recent content in Salad on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/categories/salad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/salad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>कॉर्न मेयो सलाड (Corn Mayo Salad)</title>
-      <link>https://chilliclove.com/corn-mayo-salad/</link>
+      <link>/corn-mayo-salad/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/corn-mayo-salad/</guid>
+      <guid>/corn-mayo-salad/</guid>
       <description>English Marathi कॉर्न मेयो सलाड साहित्य:  २ वाट्या स्वीटकॉर्नचे वाफवलेले दाणे २ टोमॅटो १ मध्यम आकाराचा कांदा पाव टीस्पून मिरेपूड पाव टीस्पून मीठ पाव वाटी मेयोनीज  कृती:  टोमॅटो पातळ उभा चिरून घ्यावा.</description>
     </item>
     
     <item>
       <title>रंगीबेरंगी कोशिंबीर (Multicolor Vegetable Raita)</title>
-      <link>https://chilliclove.com/multicolor-vegetable-raita/</link>
+      <link>/multicolor-vegetable-raita/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/multicolor-vegetable-raita/</guid>
+      <guid>/multicolor-vegetable-raita/</guid>
       <description>English Marathi रंगीबेरंगी कोशिंबीर साहित्य:  गाजराचे चौकोनी तुकडे - १ वाटी श्रावणघेवड्याचे मध्यम आकाराचे तुकडे - अर्धी वाटी कॉलीफ्लॉवरचे बारीक तुकडे - १ वाटी गोड दही - १ वाटी मिरेपूड - चिमूटभर तिखट - पाव टीस्पून साखर - अर्धा टीस्पून मीठ - चवीनुसार फोडणीसाठी - १ चमचा तेल, मोहरी, जिरे , हिंग, हळद.</description>
     </item>
     

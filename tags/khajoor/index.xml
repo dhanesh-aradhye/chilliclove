@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Khajoor on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/khajoor/</link>
+    <link>/tags/khajoor/</link>
     <description>Recent content in Khajoor on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/khajoor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/khajoor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>खजूर कणिक शिरा (Dates Sheera)</title>
-      <link>https://chilliclove.com/khajoor-kanik-sheera-halwa/</link>
+      <link>/khajoor-kanik-sheera-halwa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/khajoor-kanik-sheera-halwa/</guid>
+      <guid>/khajoor-kanik-sheera-halwa/</guid>
       <description>English Marathi खजूर कणिक शिरा साहित्य:  पाव वाटी साजूक तूप, दीड वाटी कणिक, १ वाटी बारीक चिरलेला खजूर, पाऊण वाटी खवा, १ वाटी बारीक चिरलेला गूळ, बदामाचे काप, विलायची पूड.</description>
     </item>
     

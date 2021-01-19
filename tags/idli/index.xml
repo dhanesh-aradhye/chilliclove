@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Idli on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/idli/</link>
+    <link>/tags/idli/</link>
     <description>Recent content in Idli on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/idli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/idli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>मसाला इडली (Masala Idli)</title>
-      <link>https://chilliclove.com/masala-idli/</link>
+      <link>/masala-idli/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/masala-idli/</guid>
+      <guid>/masala-idli/</guid>
       <description>English Marathi मसाला इडली (२-३ जणांसाठी) साहित्य:  १८-२० मध्यम आकाराच्या शिळ्या इडली, ३ चमचे तेल, चिमूटभर मिरपूड, १ मध्यम मिरची बारीक चिरून, ४-५ मोठ्या लसूण पाकळ्या बरीक चिरून, इंचभर आल्याचा तुकडा बारीक चिरून, १ टीस्पून सोया सॉस, १ मध्यम कांदा चौकोनी तुकडे करून, १ छोटे गाजर उभे चिरून, १ छोटी सिमला मिरची उभी चिरून, १ मध्यम टोमॅटो उभा चिरून, १ टीस्पून मीठ.</description>
     </item>
     

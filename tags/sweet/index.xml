@@ -2,34 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sweet on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/sweet/</link>
+    <link>/tags/sweet/</link>
     <description>Recent content in Sweet on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/sweet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sweet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>सीताफळाची बासुंदी (Sitaphal Basundi)</title>
-      <link>https://chilliclove.com/sitaphal-basundi/</link>
+      <link>/sitaphal-basundi/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/sitaphal-basundi/</guid>
+      <guid>/sitaphal-basundi/</guid>
       <description>English Marathi सीताफळाची बासुंदी साहित्य:  १ लिटर म्हशीचे दूध (सायीसकट) पाव वाटी साखर ५-६ बदाम १ मोठे पिकलेले सीताफळ केशराच्या ७-८ काड्या  कृती:  बदाम भिजत घालावेत.</description>
     </item>
     
     <item>
       <title>कुकर केक प्रकार १ (Cooker Cake - Type 1)</title>
-      <link>https://chilliclove.com/cake-without-oven/</link>
+      <link>/cake-without-oven/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/cake-without-oven/</guid>
+      <guid>/cake-without-oven/</guid>
       <description>English Marathi केक - प्रकार 1 साहित्य:  सव्वा वाटी मैदा अर्धी वाटी साखर अर्धी वाटी साजूक तूप पाऊण वाटी दूध १ टीस्पून बेकिंग पावडर पाव टीस्पून बेकिंग सोडा १० ग्रॅम कॅडबरी हॉट चॉकलेट पावडर  कृती:  कुकर रिंग व शिट्टी काढून बारीक गॅस वर गरम करत ठेवावा.</description>
     </item>
     
     <item>
       <title>मँगो कलाकंद (Mango Kalakand)</title>
-      <link>https://chilliclove.com/mongo-kalakand/</link>
+      <link>/mongo-kalakand/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/mongo-kalakand/</guid>
+      <guid>/mongo-kalakand/</guid>
       <description>English Marathi मँगो कलाकंद साहित्य:  १ लिटर दूध फाडून फडक्यात बांधून पाणी काढून टाकलेले ३-४ वेलदोडे पूड करून १ हापूस आंब्याचा रस ६ टीस्पून साखर ५-६ बदाम भिजवून त्याचे पातळ काप  कृती:  वरील सर्व साहित्य एका पातेल्यात एकत्र करून, मंद आचेवर शिजवायास ठेवावे मधून मधून सतत हलवत राहावे.</description>
     </item>
     

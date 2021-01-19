@@ -2,25 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pancake on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/pancake/</link>
+    <link>/tags/pancake/</link>
     <description>Recent content in Pancake on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/pancake/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pancake/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>काकडीचे घावन (Cucumber Pancake)</title>
-      <link>https://chilliclove.com/kakdiche-ghavan/</link>
+      <link>/kakdiche-ghavan/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/kakdiche-ghavan/</guid>
+      <guid>/kakdiche-ghavan/</guid>
       <description>English Marathi काकडीचे घावन साहित्य:  तांदळाचे पीठ - २ वाट्या किसलेला गूळ - अर्धी वाटी काकड्या - २ मीठ - चिमूटभर साजूक तूप - पाव वाटी  कृती:  काकड्या किसून घ्याव्यात.</description>
     </item>
     
     <item>
       <title>पॅनकेक (Pancake)</title>
-      <link>https://chilliclove.com/pancake/</link>
+      <link>/pancake/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/pancake/</guid>
+      <guid>/pancake/</guid>
       <description>English Marathi पॅनकेक साहित्य:  १ वाटी कणिक पाव टीस्पून बेकिंग पावडर दीड कप दूध २ टेबलस्पून साजूक तूप अडीच टीस्पून साखर १ अंडे फेटून २ थेम्ब वॅनिला इसेन्स  कृती:  तूप गरम करून घ्यावे मग त्यामध्ये साखर, कणिक, बेकिंग पावडर व कोमट दूध घालून छान फेटून घ्यावे मग त्यामध्ये फेटलेले अंडे घालून, सर्व मिश्रण अजून छान फेटून घ्यावे पीठ इडलीच्या पिठाइतकेच पातळ असावे मग नॉनस्टिक पॅनला तूप लावून, मंद आचेवर फुलक्याएवढा पॅनकेक घालावा एका बाजूने गुलाबीसर भाजला कि मग दुसऱ्या बाजूने पण तसाच भाजून घ्यावा पॅनकेक भाजताना झाकण ठेवू नये  </description>
     </item>
     
