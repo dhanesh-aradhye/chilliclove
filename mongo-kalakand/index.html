@@ -5,7 +5,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Marathi Recipe for amba kalakand">
+  <meta name="description" content="Marathi and English Recipe for amba kalakand">
   <meta name="author" content="Priyanka">
   <meta name="generator" content="Hugo 0.80.0" />
 
@@ -72,7 +72,7 @@ document.body.appendChild(el);
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse text-center" id="navogation">
+    <div class="collapse navbar-collapse text-center" id="navigation">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link text-uppercase text-light" href="https://chilliclove.com/"> Home </a>
@@ -120,7 +120,7 @@ document.body.appendChild(el);
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-lg-8">
+      <div class="col-lg-10">
         <ul class="list-inline d-flex justify-content-between py-3">
           <li class="list-inline-item"><i class="ti-user mr-2"></i>Post by Priyanka 
             [<a href="https://www.instagram.com/priyanka_aradhye/" target="_blank"> 
@@ -182,8 +182,11 @@ document.body.appendChild(el);
             </div> 
 
           </div>
-          <h6 id="english">English</h6>
-<h6 id="marathi">Marathi</h6>
+          <div class="row">
+            <div class="showhidelang col-sm-6" id="english">
+<p>Recipe coming soon in English&hellip; Please watch this space.</p>
+</div>
+<div class="showhidelang col-sm-6" id="marathi">
 <h4 id="मग-कलकद">मँगो कलाकंद</h4>
 <h5 id="सहतय">साहित्य:</h5>
 <ul>
@@ -200,10 +203,12 @@ document.body.appendChild(el);
 <li>कलाकंद छान कोरडा होण्यासाठी साधारणपणे अर्धा तास लागतो</li>
 <li>कलाकंद झाल्यावर वरून बदामाचे काप घालून छान सजवावा.</li>
 </ul>
+</div>
 
+          </div>
         </article>
       </div>
-      <div class="col-lg-4">
+      <div class="col-lg-2">
   <div class="widget search-box">
     <form action="https://chilliclove.com//search">
       <i class="ti-search"></i>
@@ -218,10 +223,7 @@ document.body.appendChild(el);
         <a href="https://chilliclove.com/gulachi-poli/"><img class="mr-3 post-thumb-sm" src="https://chilliclove.com/images/masonary-post/post-1.jpg"></a>
       </div>
       <div class="media-body">
-        <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By Priyanka</li>
-          <li class="list-inline-item">Jan 14, 2021</li>
-        </ul>
+        
         <h6><a class="text-dark" href="https://chilliclove.com/gulachi-poli/">गुळाची पोळी (Gulachi Poli)</a></h6>
       </div>
     </div>
@@ -231,10 +233,7 @@ document.body.appendChild(el);
         <a href="https://chilliclove.com/tilgulachya-wadya/"><img class="mr-3 post-thumb-sm" src="https://chilliclove.com/images/masonary-post/post-1.jpg"></a>
       </div>
       <div class="media-body">
-        <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By Priyanka</li>
-          <li class="list-inline-item">Jan 13, 2021</li>
-        </ul>
+        
         <h6><a class="text-dark" href="https://chilliclove.com/tilgulachya-wadya/">तिळगुळाच्या वड्या (Tilgul Wadi)</a></h6>
       </div>
     </div>
@@ -244,10 +243,7 @@ document.body.appendChild(el);
         <a href="https://chilliclove.com/vanilla-sponge-cake/"><img class="mr-3 post-thumb-sm" src="https://chilliclove.com/images/masonary-post/post-1.jpg"></a>
       </div>
       <div class="media-body">
-        <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By Priyanka</li>
-          <li class="list-inline-item">Dec 31, 2020</li>
-        </ul>
+        
         <h6><a class="text-dark" href="https://chilliclove.com/vanilla-sponge-cake/">व्हॅनिला स्पॉंज केक (Vanilla Sponge Cake)</a></h6>
       </div>
     </div>
@@ -503,5 +499,13 @@ import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
 const el = document.createElement('pwa-update');
 document.body.appendChild(el);
     </script>
+
+<script>
+  $( function() {
+    $( "#accordion" ).accordion();
+  } );
+  </script>
+
+
 </body>
 </html>
