@@ -2,18 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomato rice on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/tomato-rice/</link>
+    <link>/tags/tomato-rice/</link>
     <description>Recent content in Tomato rice on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/tomato-rice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tomato-rice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>टोमॅटो पनीर राईस (Tomato Paneer Rice)</title>
-      <link>https://chilliclove.com/tomato-paneer-rice/</link>
+      <link>/tomato-paneer-rice/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/tomato-paneer-rice/</guid>
-      <description>Recipe coming soon in English&amp;hellip; Please watch this space.
-टोमॅटो पनीर राईस साहित्य:  २ वाट्या तांदूळ ४ मध्यम आकाराचे पिकलेले टोमॅटो २ मध्यम आकाराचे कांदे १०० ग्रॅम पनीर दीड टीस्पून आले लसूण पेस्ट १ टीस्पून जिरे २ इंच दालचिनीचा तुडका ३ चमचे तेल १ चमचा साजूक तूप २ टीस्पून मीठ १ टीस्पून सांबार मसाला ३ सुक्या लाल मिरच्या २ तमालपत्रे अर्धा टीस्पून तिखट पाव टीस्पून हळद मूठभर कोथिंबीर  कृती:  तांदूळ निवडून स्वच्छ धुवून, १५ मिनिटे पाण्यात भिजत ठेवावे.</description>
+      <guid>/tomato-paneer-rice/</guid>
+      <description>English Marathi टोमॅटो पनीर राईस साहित्य:  २ वाट्या तांदूळ ४ मध्यम आकाराचे पिकलेले टोमॅटो २ मध्यम आकाराचे कांदे १०० ग्रॅम पनीर दीड टीस्पून आले लसूण पेस्ट १ टीस्पून जिरे २ इंच दालचिनीचा तुडका ३ चमचे तेल १ चमचा साजूक तूप २ टीस्पून मीठ १ टीस्पून सांबार मसाला ३ सुक्या लाल मिरच्या २ तमालपत्रे अर्धा टीस्पून तिखट पाव टीस्पून हळद मूठभर कोथिंबीर  कृती:  तांदूळ निवडून स्वच्छ धुवून, १५ मिनिटे पाण्यात भिजत ठेवावे.</description>
     </item>
     
   </channel>

@@ -16,16 +16,17 @@ var fuseOptions = {
   ]
 };
 
+
 var searchQuery = param("s");
 if(searchQuery){
   $("#search-query").val(searchQuery);
   executeSearch(searchQuery);
-}else {
-  $('#search-results').append("<p>Please enter a word or phrase above</p>");
 }
 
+
+
 function executeSearch(searchQuery){
-  $.getJSON( "/index.json", function( data ) {
+  $.getJSON( indexURL, function( data ) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
@@ -33,7 +34,7 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
-      $('#search-results').append("<p>No matches found</p>");
+      $('#search-results').append("<h3 class=\"text-center\">No matches found</h3>");
     }
   });
 }

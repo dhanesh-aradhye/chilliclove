@@ -2,18 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mirchi on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</title>
-    <link>https://chilliclove.com/tags/mirchi/</link>
+    <link>/tags/mirchi/</link>
     <description>Recent content in Mirchi on Chilli Clove | Recipes, Travel and Lifestyle | by Priyanka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chilliclove.com/tags/mirchi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mirchi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>मिरचीचा खर्डा (कमी तिखट)(Mirchicha Kharda)</title>
-      <link>https://chilliclove.com/mirchicha-kharda/</link>
+      <link>/mirchicha-kharda/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://chilliclove.com/mirchicha-kharda/</guid>
-      <description>Recipe coming soon in English&amp;hellip; Please watch this space.
-मिरचीचा खर्डा (कमी तिखट) साहित्य:  ८-१० पोपटी कमी तिखट मिरच्या ८-१० लसूणपाकळ्या अर्धी वाटी भाजलेले शेंगदाणे (सालासकट) १ टीस्पून जिरे १ चमचा तेल चवीनुसार मीठ १ टेबलस्पून बारीक चिरलेली कोथिंबीर  कृती:  मिरच्यांचे तुकडे, लसूणपाकळ्या आणि शेंगदाणे मिक्सरमधून भरड फिरवून घ्यावेत.</description>
+      <guid>/mirchicha-kharda/</guid>
+      <description>English Marathi मिरचीचा खर्डा (कमी तिखट) साहित्य:  ८-१० पोपटी कमी तिखट मिरच्या ८-१० लसूणपाकळ्या अर्धी वाटी भाजलेले शेंगदाणे (सालासकट) १ टीस्पून जिरे १ चमचा तेल चवीनुसार मीठ १ टेबलस्पून बारीक चिरलेली कोथिंबीर  कृती:  मिरच्यांचे तुकडे, लसूणपाकळ्या आणि शेंगदाणे मिक्सरमधून भरड फिरवून घ्यावेत.</description>
     </item>
     
   </channel>
